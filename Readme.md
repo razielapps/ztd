@@ -673,7 +673,7 @@ We welcome contributions! Here's how to get started:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/zerotrustdjango-scanner.git
+git clone https://github.com/razielapps/ztd.git
 cd zerotrustdjango-scanner
 
 # Set up development environment
@@ -686,10 +686,10 @@ pip install -e .
 pytest tests/
 
 # Run linter
-pylint zero_trust_scanner.py
+pylint ztd.py
 
 # Run type checking
-mypy zero_trust_scanner.py
+mypy ztd.py
 ```
 
 ## 📄 License
@@ -707,9 +707,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Imail**: avtxconscience@gmail.com
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/zerotrustdjango-scanner&type=Date)](https://star-history.com/#yourusername/zerotrustdjango-scanner&Date)
 
 ---
 
